@@ -9,8 +9,8 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:melkzedeck@example.com"><img src="https://img.shields.io/badge/Email-✉️%20melkzedeck@example.com-blue?style=flat-square" alt="Email"></a>
-  <a href="http://www.linkedin.com/in/melk-"><img src="https://img.shields.io/badge/LinkedIn-🔗%20Profile-blue?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:melksilemu7@gmail.com"><img src="https://img.shields.io/badge/Email-✉️%20melksilemu7@gmail.com-blue?style=flat-square" alt="Email"></a>
+  <a href="http://www.linkedin.com/in/melk-bilas"><img src="https://img.shields.io/badge/LinkedIn-🔗%20Profile-blue?style=flat-square" alt="LinkedIn"></a>
   <a href="https://github.com/mellcky"><img src="https://img.shields.io/badge/GitHub-🐙%20mellcky-black?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🏅-Finalist%20University%20Hackathon%202024-brightgreen?style=flat-square" alt="Hackathon Finalist" />
   <img src="https://img.shields.io/badge/📜-Certified%20Flutter%20Developer-blue?style=flat-square" alt="Flutter Certified" />
-  <img src="https://img.shields.io/badge/🤝-Open-Source%20Contributor-orange?style=flat-square" alt="Open Source" />
+<!--   <img src="https://img.shields.io/badge/🤝-Open-Source%20Contributor-orange?style=flat-square" alt="Open Source" /> -->
 </p>
 
 ---
