@@ -1,68 +1,110 @@
 <div align="center">
-  <h1>👋 Hey there, I'm <b>Melkzedeck B Silemu</b>!</h1>
-  <p>Aspiring Software Developer | Mobile & Web App Enthusiast</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mellcky&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=750&height=60&lines=Melkzedeck+B+Silemu;Software+Developer+%7C+Mobile+%26+Web+Solutions" alt="Professional Header" />
 </div>
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:melksilemu7@gmail.com"><img src="https://img.shields.io/badge/Email-✉️%20melksilemu7@gmail.com-blue?style=flat-square" alt="Email"></a>
-  <a href="http://www.linkedin.com/in/melk-bilas"><img src="https://img.shields.io/badge/LinkedIn-🔗%20Profile-blue?style=flat-square" alt="LinkedIn"></a>
-  <a href="https://github.com/mellcky"><img src="https://img.shields.io/badge/GitHub-🐙%20mellcky-black?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="mailto:melksilemu7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-melksilemu7%40gmail.com-4A90E2?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="http://www.linkedin.com/in/melk-bilas">
+    <img src="https://img.shields.io/badge/LinkedIn-Melk_Bilas-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/mellcky">
+    <img src="https://img.shields.io/badge/GitHub-mellcky-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Technical Expertise
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/AngularJS-DD0031.svg?&style=flat-square&logo=Angular&logoColor=white" alt="AngularJS" />
-  <img src="https://img.shields.io/badge/React-20232A.svg?&style=flat-square&logo=React&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/DHIS2-0066CC.svg?&style=flat-square&logoColor=white" alt="DHIS2" />
-</p>
+### **Development Frameworks**
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="AngularJS">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+</div>
+
+### **Languages & Technologies**
+<div align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</div>
+
+### **Platforms & Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/DHIS2-0066CC?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNSAyIDIgNi41IDIgMTJzNC41IDEwIDEwIDEwIDEwLTQuNSAxMC0xMFMxNy41IDIgMTIgMnpNOC44IDguNWg2LjR2Mi4zSDguOFY4LjV6bTAgNC4yaDYuNHYyLjNIOC44di0yLjN6Ii8+PC9zdmc+&logoColor=white" alt="DHIS2">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-| :-----: | :---------- |
-| **Smart Nutrition Tool** | 🍎 AI-driven Flutter app that analyzes meal images and delivers personalized diet insights for chronic health management. |
-| **Blood Donor Connect** | ❤️ Flutter-based platform linking donors with recipients & health centers via geo-mapping and real-time alerts. |
-| **iCare Dashboard** | 📊 Custom health indicator visualizations integrated into DHIS2 to accelerate clinical decision-making. |
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| **Smart Nutrition Tool** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" alt="Flutter"> <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow" alt="AI"> | AI-driven mobile application that analyzes meal images and delivers personalized diet insights for chronic health management |
+| **Blood Donor Connect** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" alt="Flutter"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" alt="Firebase"> | Platform connecting blood donors with recipients through geo-mapping and real-time alerts |
+| **iCare Dashboard** | <img src="https://img.shields.io/badge/DHIS2-0066CC?style=flat-square" alt="DHIS2"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript"> | Custom health indicator visualization system integrated into DHIS2 for clinical decision-making |
 
-[▶️ See all projects](https://github.com/mellcky?tab=repositories)
-
----
-
-## 🌟 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏅-Finalist%20University%20Hackathon%202024-brightgreen?style=flat-square" alt="Hackathon Finalist" />
-  <img src="https://img.shields.io/badge/📜-Certified%20Flutter%20Developer-blue?style=flat-square" alt="Flutter Certified" />
-<!--   <img src="https://img.shields.io/badge/🤝-Open-Source%20Contributor-orange?style=flat-square" alt="Open Source" /> -->
-</p>
+**[Explore All Projects →](https://github.com/mellcky?tab=repositories)**
 
 ---
 
-## 🎯 Goals & Interests
+## 🏆 Professional Highlights
 
-- 🛠️ Building scalable cross-platform solutions
-- 🤖 Exploring AI & ML integrations
-- 🌍 Volunteering in community-driven tech initiatives
-- 🎮 Strategy gaming & 🎵 music composition on guitar
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏅-Hackathon%20Finalist%202024-4A90E2?style=for-the-badge" alt="Hackathon">
+        <p>University Tech Competition Finalist</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📜-Flutter%20Certified-4A90E2?style=for-the-badge" alt="Flutter Certified">
+        <p>Google Certified Developer</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🤝-Tech%20Mentoring-4A90E2?style=for-the-badge" alt="Mentoring">
+        <p>Community Tech Education</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mellcky&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+## 🌱 Current Focus
+
+- **Scalable Architecture**: Building robust cross-platform solutions
+- **AI Integration**: Exploring machine learning applications in healthcare
+- **Community Impact**: Developing open-source tools for public health
+- **Technical Growth**: Advancing in cloud-native development
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mellcky&label=Profile+Views&color=4A90E2&style=flat-square" alt="Profile views" />
+  <p>Last Updated: August 2023</p>
+</div>
+
+> "Transforming complex challenges into elegant digital solutions"
+
+```mermaid
+graph LR
+A[Technical Vision] --> B[Mobile Development]
+A --> C[Web Solutions]
+A --> D[AI Integration]
+B --> E[Flutter]
+C --> F[Angular/React]
+D --> G[Healthcare Tech]
+E --> H[Cross-platform Apps]
+F --> I[Dashboard Systems]
+G --> J[Smart Nutrition]
